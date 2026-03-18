@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jiayuan Zhu 👋
 
-<!--
-**JYZHU550/JYZHU550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Freshman at Duke Kunshan University  
+💻 Interested in Computer Science, AI, and Economics  
+📍 Planning to transfer to a top US university  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- GPA: 3.9/4.0  
+- USACO Platinum (Rank 1)  
+- AMC12 Honor Roll (Top 5%)  
+- IELTS: 6.5  
+
+---
+
+## 🔬 Projects & Research
+- Software Vulnerability Detection using Deep Learning  
+- Beidou System + Smart Agriculture Project  
+- AI Care System for Dementia Patients (ongoing)
+
+---
+
+## 💻 Skills
+- Python  
+- Java  
+- Data Structures  
+- Basic AI / Machine Learning  
+
+---
+
+## 📫 Contact
+- Email: jz550@duke.edu  
